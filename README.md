@@ -1,2 +1,2 @@
 # wph-resolusi
-Repository untuk menyimpan rencana halim kedepannya
+Repository untuk menyimpan rencana wph kedepannya
