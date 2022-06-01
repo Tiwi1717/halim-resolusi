@@ -1,2 +1,2 @@
-# wph-resolusi
-Repository untuk menyimpan rencana wph kedepannya
+WPH RESOLUSI
+- Repository untuk menyimpan rencana wph kedepannya
